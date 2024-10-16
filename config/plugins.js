@@ -1,5 +1,1 @@
-module.exports = () => ({
-    tinymce: {
-        enabled: true
-    }
-});
+module.exports = () => ({});
